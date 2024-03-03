@@ -1,0 +1,44 @@
+* niĝ₂-nam nu-kal - tallest one won't reach heavens
+:PROPERTIES:
+  :ANKI_DECK: sumerian_philosophy
+  :ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1709493036743
+  :END:
+** text
+240227a
+#+begin_quote
+{{c1::
+sukud-du an-na-še₃ nu-um-un-da-la₂ \\
+sukud.? an.?.šu ?.la₂ \\
+to-be-high sky/haven.?.hand ?.to-hang \\
+The tallest one cannot reach the sky.
+}}
+
+{{c2::
+lu₂ daĝal-la kur-ra la-ba-šu₂-šu₂ \\
+lu₂ daĝal.? kur.? NEG.?.šu₂ \\
+person wide.? mountain/land/underworld.? NEG.to-cover \\
+The widest one cannot cover the mountains/underworld.
+}}
+
+{{c3::
+kalag-ga ki-a ne nu-mu-un-gid₂-de₃ \\
+niĝ₂-kalag-ga ki-a ne nu-mu-un-gid₂-de₃ \\
+strong.? Earth \\
+The strongest one cannot stretch himself on Earth.
+}}
+#+end_quote
+** other
+niĝ₂-nam nu-kal - index note 240303a
+Bendt Alster "Wisdom of Ancient Sumer" p.270
+Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+
+NILI SAMET, “THE TALLEST MAN CANNOT REACH HEAVEN; THE BROADEST MAN CANNOT COVER EARTH” – RECONSIDERING THE PROVERB AND ITS BIBLICAL PARALLELS
+Samet lists many other versions found in the literature:
+Gilgamesh, Ballad of Early Rulers, Proverb Collections - add links TODO
+The_Ballade_of_Early_rulers_210910a.org
+1
+https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c6117.B.17.b2.4&charenc=gcirc
+
+2
+https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c1815.29&charenc=gcirc

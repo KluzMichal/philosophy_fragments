@@ -1,0 +1,40 @@
+* niĝ₂-nam nu-kal - nothing is of value
+:PROPERTIES:
+  :ANKI_DECK: sumerian_philosophy
+  :ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1709479103293
+:END:
+** text
+240222a
+#+begin_quote
+{{c1::
+niĝ₂-nam nu-kal zi ku₇-ku₇-dam \\
+niĝ₂-nam NEG.kal zi ku₇-ku₇.? \\
+anything not.to-be-valuable life/breath to-be-sweet.? \\ 
+Everything is worthless, but life is sweet.
+}}
+
+{{c2::
+me-na-am₃ niĝ₂-tuku lu₂ la-ba-an-tuku \\
+me-na.? niĝ₂-tuku lu₂ la.?.tuku \\
+when.? rich person NEG.?.to-have \\
+When a man does not have wealth,
+}}
+
+{{c3::
+lu₂ niĝ₂-tuku ba-an-tuku \\
+lu₂ niĝ₂-tuku ?.tuku \\
+person rich ?.to-have \\
+(that) man has wealth.
+}}
+#+end_quote
+** other
+Found in many manuscripts this line is common to all compositions.
+Instructions of Shuruppak Nothing is of Value 230826f
+niĝ₂-nam nu-kal - index note 240303a.org
+Bendt Alster "Wisdom of Ancient Sumer" p.270
+Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+
+1. https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c561.242&charenc=gcirc
+2. 
+https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c561.184&charenc=gcirc

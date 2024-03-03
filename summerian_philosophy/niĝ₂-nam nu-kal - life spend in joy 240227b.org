@@ -1,0 +1,27 @@
+* niĝ₂-nam nu-kal - life spend in joy
+:PROPERTIES:
+  :ANKI_DECK: sumerian_philosophy
+  :ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1709480681456
+  :END:
+** text
+240227b
+#+begin_quote
+{{c1::
+ti niĝ₂-du₁₀ ša₃-ḫul₂-la šu ḫe₂-ni-ib-kar-kar-re \\
+til₃ \\
+life \\
+Precious life should be [defiled] in joy.
+}}
+
+{{c2::
+hub₂-sar ša₃-ḫul₂-la u₄ ḫe₂-ni-ib₂-zal-zal-e \\
+hub₂-sar \\
+to-run \\
+Let the race be spent in joy!
+}}
+#+end_quote
+** other
+niĝ₂-nam nu-kal - index note 240303a.org
+Bendt Alster "Wisdom of Ancient Sumer" p.270
+Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf

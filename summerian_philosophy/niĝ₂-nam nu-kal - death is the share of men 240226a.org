@@ -1,0 +1,35 @@
+* niĝ₂-nam nu-kal - death is the share of men
+:PROPERTIES:
+  :ANKI_DECK: sumerian_philosophy
+  :ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1709479651770
+  :END:
+** text
+240226a
+#+begin_quote
+{{c1::
+nam-uš₂-am₃ ḫa-la lu₂-u₁₈-lu-kam \\
+nam-uš₂.? ḫa-la nam-lu₂-u₁₈-lu.POSSESIVE? \\
+death.? share/fate human/humankind \\
+Death is the share of mankind.
+}}
+
+{{c2::
+niĝ₂-nam-a-ka-ni lu₂ na-me la-ba-an-ši-in-kar \\
+niĝ₂.nam.? lu₂ na-me la.? \\
+thing.destiny.? person any NEG.? \\
+His things of destiny, no man can escape them.
+}}
+
+{{c3::
+an-ta e₂-ur₃-ra-ni ki-ta e₂ da-ri₂-ka-ni \\
+an-ta e₂.? ki-ta e₂ da-ri₂.? \\
+upper house.? lower house eternal.? \\
+Above is his elevated house, below is his everlasting house.
+}}
+#+end_quote
+** other
+Bendt Alster "Wisdom of Ancient Sumer" p.273
+Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+5 is identical to The Ballade of Early Rulers 6 - TODO
+niĝ₂-nam nu-kal - index note 240303a.org

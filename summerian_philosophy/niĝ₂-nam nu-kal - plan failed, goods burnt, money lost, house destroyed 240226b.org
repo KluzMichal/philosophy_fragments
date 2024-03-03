@@ -1,0 +1,41 @@
+* niĝ₂-nam nu-kal - plan failed, goods burnt, money lost, house destroyed
+:PROPERTIES:
+  :ANKI_DECK: sumerian_philosophy
+  :ANKI_NOTE_TYPE: Cloze
+:ANKI_NOTE_ID: 1709485850421
+  :END:
+** text
+240226b
+#+begin_quote
+{{c1::
+umuš-bi eĝir-bi im ba-e-tum₃ \\
+umuš.? ? eĝir.? im ?.tum₃ \\
+plan.? back/estate.? rain/storm ?.imperfect-singular-stem-of-de[to-bring] \\
+That plan – its outcome was carried away by the wind.
+}}
+
+{{c2::
+niĝ₂-šu ĝal₂-la i-bi₂-gin₇ an-še₃ ba-e₃-de₃ \\
+All the existing goods will go up to the sky like smoke.
+}}
+
+{{c3::
+ku₃ bala la-la-bi ak-da ku₃ ib₂-ba-aš ba-an-ku₄ \\
+la-la-bi=abundance \\
+The money made abundant from transactions, will
+turn into lost money.
+}}
+
+{{c4::
+e₂-bi du₆-du₆-da ba-šid-e a-ri-a-še₃ mu-un-ku₄ \\
+e₂.? ? ? a-ri-a.? ? \\
+house.? ? ? steppe/wasteland.? ? \\
+That house became a ruined mound. It turned into the
+wasteland.
+}}
+#+end_quote
+** other
+niĝ₂-nam nu-kal - index note 240303a.org
+Bendt Alster "Wisdom of Ancient Sumer" p.272
+Maurizio VIANO "On “Nothing is of Value” IV: Version B" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
