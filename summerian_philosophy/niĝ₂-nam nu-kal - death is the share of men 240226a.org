@@ -8,28 +8,35 @@
 240226a
 #+begin_quote
 {{c1::
-nam-uš₂-am₃ ḫa-la lu₂-u₁₈-lu-kam \\
-nam-uš₂.? ḫa-la nam-lu₂-u₁₈-lu.POSSESIVE? \\
-death.? share/fate human/humankind \\
-Death is the share of mankind.
+- Alster C3 :: nam-uš₂-am₃ ḫa-la lu₂-u₁₈-lu-kam
+- nam-uš₂ :: death (abstract prefix + 'to die')
+- ḫa-la :: (inheritance) share, lot (cf., hal)
+- nam-lu₂-u₁₈-lu :: people, mankind, humanity (abstract prefix + 'human being' + 'huge')
+- transl :: Death is the share of mankind.
 }}
 
 {{c2::
-niĝ₂-nam-a-ka-ni lu₂ na-me la-ba-an-ši-in-kar \\
-niĝ₂.nam.? lu₂ na-me la.? \\
-thing.destiny.? person any NEG.? \\
-His things of destiny, no man can escape them.
+- Alster C4 :: niĝ₂-nam-a-ka-ni lu₂ na-me la-ba-an-ši-in-kar
+- niĝ₂.nam.a-ka-ni :: his things of destiny
+- lu₂...na-me...nu- :: no man does X ('man' + prohibitive modal prefix + 'to be' + 'no, not')
+- kar :: escape
+- transl :: His things of destiny, no man can escape them.
 }}
 
 {{c3::
-an-ta e₂-ur₃-ra-ni ki-ta e₂ da-ri₂-ka-ni \\
-an-ta e₂.? ki-ta e₂ da-ri₂.? \\
-upper house.? lower house eternal.? \\
-Above is his elevated house, below is his everlasting house.
+- Alster C5 :: an-ta e₂-ur₃-ra-ni ki-ta e₂ da-ri₂-ka-ni
+- an-ta :: above ('heaven' + locative with remote deixis)
+- e₂-ur₃-ra :: storehouse ('house' + 'rafter beams') 
+- ki-ta :: below; lower ('ground' + locative with remote deixis)
+- e₂ :: house
+- da-ri₂[URU] :: long-lasting, enduring, eternal ('near, present' + remote demonstrative affix)
+- transl :: Above is his elevated house, below is his everlasting house.
 }}
 #+end_quote
 ** other
-Bendt Alster "Wisdom of Ancient Sumer" p.273
-Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
-5 is identical to The Ballade of Early Rulers 6 - TODO
-niĝ₂-nam nu-kal - index note 240303a.org
+- Bendt Alster "Wisdom of Ancient Sumer" p.273
+- Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+- 5 is identical to The Ballade of Early Rulers 6 - TODO
+- niĝ₂-nam nu-kal - index note 240303a.org
+- http://sumer.grazhdani.eu/index.php
+- http://psd.museum.upenn.edu/nepsd-frame.html

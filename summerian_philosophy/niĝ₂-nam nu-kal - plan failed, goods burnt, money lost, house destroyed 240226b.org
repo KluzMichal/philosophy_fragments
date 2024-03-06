@@ -8,34 +8,49 @@
 240226b
 #+begin_quote
 {{c1::
-umuš-bi eĝir-bi im ba-e-tum₃ \\
-umuš.? ? eĝir.? im ?.tum₃ \\
-plan.? back/estate.? rain/storm ?.imperfect-singular-stem-of-de[to-bring] \\
-That plan – its outcome was carried away by the wind.
+- Viano IV5 :: umuš-bi eĝir-bi im ba-e-tum₃
+- umuš :: plan
+- eĝir :: back/estate
+- im :: wind/storm/rain
+- tumu₂,₃ tum₂,₃ tu₂,₃ :: to bring; to carry away; to obtain; to be suitable, fit; to prepare (ta, 'from', + ú, 'food', + ma4, 'to leave') 
+- transl :: That plan – its outcome was carried away by the wind.
 }}
 
 {{c2::
-niĝ₂-šu ĝal₂-la i-bi₂-gin₇ an-še₃ ba-e₃-de₃ \\
-All the existing goods will go up to the sky like smoke.
+- Viano IV6 :: niĝ₂-šu ĝal₂-la i-bi₂-gin₇ an-še₃ ba-e₃-de₃
+- niĝ₂-šu :: goods ('thing' + 'hands')
+- ĝal₂ :: to be (there, at hand, available); to exist; to put, place, lay down; to have
+- gin₇ :: prep., equative suffix; as, like; instead of; just as, during
+- an :: sky, heaven
+- še₃ :: prep., to, unto, as far as, up to; as regards, concerning; because of, for the sake of; until (terminative suffix and in Old Sumerian period terminative prefix)
+- bad, be :: to open; to let out; to go away; to be at a distance; to drive away; to separate, remove 
+- de₃ :: ashes
+- transl :: All the existing goods will go up to the sky like smoke.
 }}
 
 {{c3::
-ku₃ bala la-la-bi ak-da ku₃ ib₂-ba-aš ba-an-ku₄ \\
-la-la-bi=abundance \\
-The money made abundant from transactions, will
+- Viano IV7 :: ku₃ bala la-la-bi ak-da ku₃ im-ba-aš ba-an-ku₄
+- kug, ku₃ :: silver; precious metal; money; noble (ku, 'to base, build' + aga(3), 'diadem, circlet, crown')
+- la-la-bi :: abundance
+- ku₃-im-ba(-aš...ku₄) :: to loose money ('silver' + 'loss' ( + plural marker + 'to enter, turn into'))
+- transl :: The money made abundant from transactions, will
 turn into lost money.
 }}
 
 {{c4::
-e₂-bi du₆-du₆-da ba-šid-e a-ri-a-še₃ mu-un-ku₄ \\
-e₂.? ? ? a-ri-a.? ? \\
-house.? ? ? steppe/wasteland.? ? \\
-That house became a ruined mound. It turned into the
+- Viano IV8 :: e₂-bi du₆-du₆-da ba-šid-e a-ri-a-še₃ mu-un-ku₄
+- e₂ :: house
+- dul₆ du₆ :: mound, heap; sanctuary; ruins; (dù, 'to build, erect', + ul, 'ancient, enduring')
+- a-ri-a, a-ru-a :: district; desert, waste land ('where' + remote demonstrative affix + nominative)
+- kur₉, ku₄ :: n., entrance (ki,'place', + ùr, 'entrance');
+v., to enter; to turn round, turn into, transform (with -da-) 
+- transl :: That house became a ruined mound. It turned into the
 wasteland.
 }}
 #+end_quote
 ** other
-niĝ₂-nam nu-kal - index note 240303a.org
-Bendt Alster "Wisdom of Ancient Sumer" p.272
-Maurizio VIANO "On “Nothing is of Value” IV: Version B" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
-Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+- niĝ₂-nam nu-kal - index note 240303a.org
+- Bendt Alster "Wisdom of Ancient Sumer" p.272
+- Maurizio VIANO "On “Nothing is of Value” IV: Version B" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+- http://sumer.grazhdani.eu/index.php
+- http://psd.museum.upenn.edu/nepsd-frame.html

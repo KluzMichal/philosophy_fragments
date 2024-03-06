@@ -8,37 +8,40 @@
 240227a
 #+begin_quote
 {{c1::
-sukud-du an-na-še₃ nu-um-un-da-la₂ \\
-sukud.? an.?.šu ?.la₂ \\
-to-be-high sky/haven.?.hand ?.to-hang \\
-The tallest one cannot reach the sky.
+- Alster A5 :: sukud-du an-na-še₃ nu-um-un-da-la₂
+- sukud, zugud :: height; depth; adj. tall (su, 'body', + gid₂, 'long')
+- an :: sky/haven
+- šu :: hand
+- la₂ :: to be high; to hold; to lift; to carry; to hang (from) (with -ta-)
+- transl :: The tallest one cannot reach the sky.
 }}
 
 {{c2::
-lu₂ daĝal-la kur-ra la-ba-šu₂-šu₂ \\
-lu₂ daĝal.? kur.? NEG.?.šu₂ \\
-person wide.? mountain/land/underworld.? NEG.to-cover \\
-The widest one cannot cover the mountains/underworld.
+- Alster A6 :: lu₂ daĝal-la kur-ra la-ba-šu₂-šu₂
+- lu₂ :: person
+- daĝal :: width, breadth; adj. wide (da, 'side', + gal/ĝal, 'big')
+- kur :: mountain; highland; (foreign) land; the netherworld (ki,'place', + ùr, 'roof, mountain pass'/úr, 'root, base');  to reach, attain; to kindle; to rise (sun).
+- šu₂ :: to cover
+- transl :: The widest one cannot cover the mountains/underworld.
 }}
 
 {{c3::
-kalag-ga ki-a ne nu-mu-un-gid₂-de₃ \\
-niĝ₂-kalag-ga ki-a ne nu-mu-un-gid₂-de₃ \\
-strong.? Earth \\
-The strongest one cannot stretch himself on Earth.
+- Alster A7 :: kalag-ga ki-a ne nu-mu-un-gid₂-de₃
+- kalag, kala, kal :: to repair, mend (kal, 'excellent', + aka/ag, 'to make'); adj. strong
+- ki :: earth; place; area; location; ground; grain ('base' + 'to rise, sprout')
+- gid₂ ::  length; to lengthen; to draw, pull, tow; to measure out; to manage; to reach out (to take) (to be long and throat-like with motion away from).
+- transl :: The strongest one cannot stretch himself on Earth.
 }}
 #+end_quote
 ** other
-niĝ₂-nam nu-kal - index note 240303a
-Bendt Alster "Wisdom of Ancient Sumer" p.270
-Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+- niĝ₂-nam nu-kal - index note 240303a
+- Bendt Alster "Wisdom of Ancient Sumer" p.270
+- Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
 
-NILI SAMET, “THE TALLEST MAN CANNOT REACH HEAVEN; THE BROADEST MAN CANNOT COVER EARTH” – RECONSIDERING THE PROVERB AND ITS BIBLICAL PARALLELS
-Samet lists many other versions found in the literature:
-Gilgamesh, Ballad of Early Rulers, Proverb Collections - add links TODO
-The_Ballade_of_Early_rulers_210910a.org
-1
-https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c6117.B.17.b2.4&charenc=gcirc
-
-2
-https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c1815.29&charenc=gcirc
+- NILI SAMET, “THE TALLEST MAN CANNOT REACH HEAVEN; THE BROADEST MAN CANNOT COVER EARTH” – RECONSIDERING THE PROVERB AND ITS BIBLICAL PARALLELS
+- Samet lists many other versions found in the literature: Gilgamesh, Ballad of Early Rulers, Proverb Collections - add links TODO
+- The_Ballade_of_Early_rulers_210910a.org
+- https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c6117.B.17.b2.4&charenc=gcirc
+- https://etcsl.orinst.ox.ac.uk/edition2/etcslgloss.php?lookup=c1815.29&charenc=gcirc
+- http://sumer.grazhdani.eu/index.php
+- http://psd.museum.upenn.edu/nepsd-frame.html

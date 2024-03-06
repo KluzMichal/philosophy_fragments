@@ -8,20 +8,25 @@
 240227b
 #+begin_quote
 {{c1::
-ti niĝ₂-du₁₀ ša₃-ḫul₂-la šu ḫe₂-ni-ib-kar-kar-re \\
-til₃ \\
-life \\
-Precious life should be [defiled] in joy.
+- Alster A8 :: til₃ niĝ₂-du₁₀ ša₃-ḫul₂-la šu ḫe₂-ni-ib-kar-kar-re
+- til₃, ti :: life (tu, 'to be born', + íla, 'to lift, carry')
+- niĝ₂-du₇ :: what is suitable, prescribed, or as it should be ('thing' + 'suitable')
+- ša₃-ḫul₂-la :: delight ('heart' + 'to rejoice' + nominative) 
+- šu...kar :: to take away; to dirty one's reputation; to soil someone (physically)
+- transl :: Precious life should be [spend/defiled] in joy.
 }}
 
 {{c2::
-hub₂-sar ša₃-ḫul₂-la u₄ ḫe₂-ni-ib₂-zal-zal-e \\
-hub₂-sar \\
-to-run \\
-Let the race be spent in joy!
+- Alster A9 :: hub₂-sar ša₃-ḫul₂-la u₄ ḫe₂-ni-ib₂-zal-zal-e
+- hub₂-sar :: to run
+- ša₃-ḫul₂-la :: delight ('heart' + 'to rejoice' + nominative) 
+- u₄...zal :: the day dawns; to spend the day; to elapse; to waste time; to be late ('time' + 'to flow, pass')
+- transl :: Let the race be spent in joy!
 }}
 #+end_quote
 ** other
-niĝ₂-nam nu-kal - index note 240303a.org
-Bendt Alster "Wisdom of Ancient Sumer" p.270
-Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" found in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+- niĝ₂-nam nu-kal - index note 240303a.org
+- Bendt Alster "Wisdom of Ancient Sumer" p.270
+- Maurizio VIANO "On “Nothing is of Value” I: N 3579 (+) Ni 2763 (SLTNi 128)" in: https://sepoa.fr/wp/wp-content/uploads/2022/11/NABU-2022-3-indexe_28_11_lite.pdf
+- http://sumer.grazhdani.eu/index.php
+- http://psd.museum.upenn.edu/nepsd-frame.html
